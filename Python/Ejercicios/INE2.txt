@@ -1,0 +1,9 @@
+nombre: Hernandez Garcia Diego
+domicilio: Colosio
+clave_elector: FJFJJSDJIS99489DDJ0
+curp: RIJNV9493DMDO
+fecha_ine: 12-12-2021
+seccion: 9540
+registro: 2022 22
+vigencia: 2020-2034
+sexo: H

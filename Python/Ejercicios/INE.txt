@@ -1,0 +1,9 @@
+nombre: ankdsvjvnisdn
+domicilio: dscvjnfdlv
+clave_elector: NFIE5UG559GR
+curp: ND9U4HH84
+fecha_ine: 12-12-12
+seccion: 1243
+registro: 1234
+vigencia: 2021-2024
+sexo: H
